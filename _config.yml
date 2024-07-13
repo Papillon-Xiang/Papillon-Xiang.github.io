@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xiangyu Zhang"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "https://github.com/Papillon-Xiang/Papillon-Xiang.github.io.git"
+repository               : "Papillon-Xiang/Papillon-Xiang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
