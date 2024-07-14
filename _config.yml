@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiangyu Zhang"
-  avatar           : "/Users/zhangxiangyu/Library/CloudStorage/OneDrive-JohnsHopkins/Papillon-Xiang.github.io/images/android-chrome-192x192.png"
+  avatar           : "Papillon-Xiang.github.io/images/android-chrome-192x192.png"
   bio              : "Johns Hopkins University"
   location         : "Baltimore, United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "xzhan344@jh.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
