@@ -5,3 +5,6 @@ includes:    ./_includes
 collections:
   projects:
     output: true
+
+baseurl: ""  # Leave empty for root-level deployment, e.g., GitHub Pages user sites
+url: "https://Papillon-Xiang.github.io"  # Replace with your domain or GitHub Pages URL
