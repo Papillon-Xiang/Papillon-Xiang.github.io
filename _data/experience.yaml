@@ -15,8 +15,10 @@ experiences:
 #   title: "Data Scientist"
   # category: "work"
 
-- place: "To be continued"
-  time: "Aug. 2025 - "
+- place: "Johns Hopkins University"
+  time: "Aug. 2025 - Currently"
+  title: "Ph.D. student in Applied Mathematics and Statistics"
+  subtitle: "Supervised by Prof. Yanxun Xu"
   category: "school"
 
 - place: "Johns Hopkins University"
