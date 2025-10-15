@@ -3,6 +3,7 @@ papers:
     authors: Ruijia Zhang, Zhengling Qi, Yue Wu, <b>Xiangyu Zhang</b>, Yanxun Xu
     venue: Under review, JASA
     paper_pdf: https://arxiv.org/abs/2506.20406 
+    selected: y
 
 
   - title: "Enhancing Molecular Design through Graph-based Topological Reinforcement Learning"
